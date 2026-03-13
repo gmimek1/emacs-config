@@ -3,8 +3,8 @@
 This repository contains my personal Emacs configuration.
 
 ## Features
-- Custom keybindings
-- Useful packages included
+- Custom keybindings for efficiency
+- Useful packages included for development tasks
 
 ## Tech Stack
 - Emacs Lisp
@@ -13,5 +13,4 @@ This repository contains my personal Emacs configuration.
 - Clone the repository and load the configuration in Emacs.
 
 ## Future Plans
-- Add more customization
-- Share useful snippets
+- Add more customization and share useful snippets.
